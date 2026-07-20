@@ -1,82 +1,108 @@
-# 🌟 Deepika Sekar | Personal Portfolio
-
-## 🚀 Welcome
-
-Welcome to my personal portfolio website!
-
-This portfolio showcases my **education, technical skills, software & hardware projects, internship experience, international certifications, achievements, resume, and contact information**.
+# 🌐💻 𝗗𝗘𝗘𝗣𝗜𝗞𝗔 𝗦𝗘𝗞𝗔𝗥
+# 🚀 𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢
+## 👩‍💻 𝗝𝗔𝗩𝗔 • 𝗦𝗘𝗥𝗩𝗜𝗖𝗘𝗡𝗢𝗪 • 𝗪𝗘𝗕 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 • 𝗜𝗢𝗧
 
 ---
 
-# 🌐 Live Portfolio
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🌟 𝗪𝗘𝗟𝗖𝗢𝗠𝗘
+
+Welcome to my personal portfolio repository!
+
+This portfolio showcases my **technical skills, software projects, IoT innovations, internship experience, international certifications, achievements, and professional journey**.
+
+Designed with a modern responsive UI to present my work in a clean and professional way.
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🌐 𝗟𝗜𝗩𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢
 
 🔗 **https://your-netlify-link.netlify.app**
 
 ---
 
-# 👩‍💻 About Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Hi! I'm **Deepika Sekar**, a passionate **B.E. Electronics and Communication Engineering (ECE)** student with a strong interest in:
+# 👩‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-- ☕ Java Development
-- 🌐 Web Development
-- 🤖 IoT & Embedded Systems
-- 💼 ServiceNow Platform
-- 💻 Software Development
+Hi, I'm **Deepika Sekar**, a passionate **Electronics and Communication Engineering (ECE)** student with a strong interest in software development and emerging technologies.
 
-I enjoy building modern, user-friendly, and innovative applications while continuously improving my technical skills.
+### 💼 Areas of Interest
 
----
+☕ Java Development
 
-# 🛠️ Technologies Used
+🌐 Frontend Web Development
 
-### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript
+🤖 IoT & Embedded Systems
 
-### ⚙️ Platform & Tools
-- EmailJS
-- GitHub
-- Netlify
+⚙️ ServiceNow Platform
 
-### 💾 Programming
-- Java
-- SQL
+💾 Database Management
 
 ---
 
-# ✨ Portfolio Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔️ Fully Responsive Design
+# 🛠 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 
-✔️ Premium UI/UX
+### 💻 Programming Languages
 
-✔️ About Section
+• Java
 
-✔️ Skills Section
+• SQL
 
-✔️ Project Showcase
+• HTML5
 
-✔️ Internship Experience
+• CSS3
 
-✔️ International Certifications
+• JavaScript
 
-✔️ Achievements Gallery
+### ⚙️ Tools & Platforms
 
-✔️ Resume Download
+• GitHub
 
-✔️ Demo Videos
+• Netlify
 
-✔️ GitHub Repository Links
+• EmailJS
 
-✔️ EmailJS Contact Form
-
-✔️ Mobile Friendly
+• VS Code
 
 ---
 
-# 📂 Featured Projects
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ✨ 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
+
+✔ Modern Responsive UI
+
+✔ Interactive Animations
+
+✔ Projects Showcase
+
+✔ Internship Experience
+
+✔ International Certifications
+
+✔ Achievement Gallery
+
+✔ Resume Download
+
+✔ Demo Videos
+
+✔ GitHub Repository Links
+
+✔ Contact Form with EmailJS
+
+✔ Mobile Friendly Design
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📂 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 🌱 Automatic Plant Irrigation System
 
@@ -86,27 +112,51 @@ I enjoy building modern, user-friendly, and innovative applications while contin
 
 📊 Online Survey System
 
+🌾 Smart Crop Disease Detection using AI & IoT
+
 ---
 
-# 🏆 Certifications
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🏆 𝗜𝗡𝗧𝗘𝗥𝗡𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
 🏅 ServiceNow Certified System Administrator (CSA)
 
 🏅 ServiceNow Certified Application Developer (CAD)
 
-🏅 NPTEL Certifications
+🏅 NPTEL Certification
 
 ---
 
-# 📧 Contact Information
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**👩 Name:** Deepika Sekar
+# 🏅 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
 
-**📩 Email:** deepikasekar222@gmail.com
+🥇 Product Expo Winner – LUNARA'26
+
+📄 IEEE Conference Publication
+
+💻 24-Hour Hackathon Participant
+
+📘 NPTEL Course Completion
+
+🎖 Academic & Technical Achievements
 
 ---
 
-# 🔗 Connect With Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📧 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
+
+👩 **Deepika Sekar**
+
+📩 **deepikasekar222@gmail.com**
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🔗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
 
 🌐 **Portfolio**
 
@@ -122,10 +172,14 @@ https://github.com/your-github-username
 
 ---
 
-# ⭐ Thank You
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Thank you for visiting my portfolio!
+# ⭐ 𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨
 
-If you have any suggestions, collaboration opportunities, internship offers, or job opportunities, feel free to connect with me.
+Thank you for visiting my portfolio repository.
 
-**Have a great day! 😊**
+I welcome opportunities for internships, collaborations, and full-time roles.
+
+If you have any feedback or opportunities, feel free to connect with me.
+
+🚀 **Let's build innovative solutions together!**
