@@ -6,13 +6,13 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌟 𝗪𝗘𝗟𝗖𝗢𝗠𝗘
+## 🌟 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗢𝗩𝗘𝗥𝗩𝗜𝗘𝗪
 
-Welcome to my **Personal Portfolio Repository**.
+Welcome to my **Personal Portfolio Website**.
 
-This portfolio represents my academic journey, technical skills, software development projects, IoT innovations, internship experience, international certifications, achievements, and professional growth.
+This portfolio showcases my academic journey, technical skills, software projects, internship experience, international certifications, achievements, and professional growth.
 
-Designed with a **modern, responsive, and professional UI** to showcase my work and passion for technology.
+Designed with a **modern, responsive, and interactive UI** to reflect my passion for software development and technology.
 
 ---
 
@@ -20,15 +20,15 @@ Designed with a **modern, responsive, and professional UI** to showcase my work 
 
 ## 👩‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-Hi, I'm **Deepika Sekar**, a passionate **B.E. Electronics and Communication Engineering (ECE)** student.
+Hi! I'm **Deepika Sekar**, a passionate **B.E. Electronics and Communication Engineering (ECE)** student.
 
-I enjoy building innovative software solutions and continuously learning new technologies.
+I enjoy creating innovative software solutions and continuously improving my technical knowledge.
 
 ### 💡 𝗔𝗿𝗲𝗮𝘀 𝗼𝗳 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁
 
 ☕ Java Development
 
-🌐 Frontend Web Development
+🌐 Web Development
 
 ⚙️ ServiceNow Platform
 
@@ -36,7 +36,7 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 💾 Database Management
 
-📱 Responsive Web Design
+📱 Responsive UI Design
 
 ---
 
@@ -44,13 +44,15 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 ## 🌐 𝗟𝗜𝗩𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢
 
-🔗 **https://your-netlify-link.netlify.app**
+🌍 **Portfolio Website**
+
+👉 **https://deepika-portfolio23.netlify.app**
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🛠 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦
+## 🛠 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 𝗨𝗦𝗘𝗗
 
 ### 💻 Programming Languages
 
@@ -64,7 +66,7 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 ✔ JavaScript
 
-### ⚙️ Platforms & Tools
+### ⚙️ Tools & Platforms
 
 ✔ GitHub
 
@@ -76,17 +78,21 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 ✔ MySQL
 
+✔ Eclipse IDE
+
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## ✨ 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 
-✔ Modern Responsive Design
+✔ Modern Premium UI/UX
 
-✔ Premium User Interface
+✔ Fully Responsive Design
 
-✔ Interactive Animations
+✔ Smooth Animations
+
+✔ Interactive Project Showcase
 
 ✔ Internship Experience
 
@@ -100,17 +106,19 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 ✔ GitHub Repository Links
 
-✔ EmailJS Contact Form
+✔ Contact Form with EmailJS
 
-✔ Mobile Friendly Layout
+✔ Mobile Friendly
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📂 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+## 🚀 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 🌱 Automatic Plant Irrigation System
+
+🤖 Smart Crop Disease Detection using AI & IoT
 
 💡 Electricity Bill Management System
 
@@ -118,7 +126,7 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 📊 Online Survey System
 
-🤖 Smart Crop Disease Detection using AI & IoT
+🌐 Personal Portfolio Website
 
 ---
 
@@ -144,25 +152,51 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 💻 24-Hour Hackathon Participant
 
-🎓 NPTEL Course Completion
+📚 NPTEL Course Completion
 
-🏆 Academic & Technical Achievements
+🏆 Academic Excellence
 
 ---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📧 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
+## 📈 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦
 
-👩 **Deepika Sekar**
+✔ Professional Design
 
-📩 **Email:** deepikasekar222@gmail.com
+✔ Live Portfolio
 
-🌐 **Portfolio:** https://your-netlify-link.netlify.app
+✔ Resume Download
 
-💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
+✔ Project Demonstrations
 
-💻 **GitHub:** https://github.com/your-github-username
+✔ Interactive Contact Form
+
+✔ Responsive Layout
+
+✔ Clean Code Structure
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📫 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘
+
+📧 **Email**
+
+**deepikasekar222@gmail.com**
+
+💼 **LinkedIn**
+
+**https://www.linkedin.com/in/deepika-sekar-140276290**
+
+💻 **GitHub**
+
+**https://github.com/Deepika22-d**
+
+🌐 **Portfolio**
+
+**https://deepika-portfolio23.netlify.app**
 
 ---
 
@@ -170,15 +204,17 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 ## 🚀 𝗙𝗨𝗧𝗨𝗥𝗘 𝗚𝗢𝗔𝗟𝗦
 
-✔ Build scalable software applications
+✔ Become a Software Engineer
 
-✔ Enhance expertise in Java & ServiceNow
+✔ Build Scalable Web Applications
 
-✔ Contribute to innovative IoT solutions
+✔ Master Java & ServiceNow
 
-✔ Develop impactful real-world projects
+✔ Develop Innovative IoT Solutions
 
-✔ Continuously learn emerging technologies
+✔ Contribute to Open Source Projects
+
+✔ Continue Learning Emerging Technologies
 
 ---
 
@@ -188,6 +224,6 @@ I enjoy building innovative software solutions and continuously learning new tec
 
 Thank you for visiting my portfolio repository.
 
-I’m always open to learning, collaboration, internship opportunities, and software development roles.
+If you're interested in my work, feel free to explore my projects, visit my portfolio, or connect with me on LinkedIn.
 
-**Let's connect and build something amazing together! 🚀**
+### 🚀 **Let's Connect, Collaborate, and Build Something Amazing Together!**
